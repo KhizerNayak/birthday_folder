@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/birthday_folder/static/css/main.9326c69e.css",
+    "main.js": "/birthday_folder/static/js/main.2fe529d8.js",
+    "static/css/540.941a0a44.chunk.css": "/birthday_folder/static/css/540.941a0a44.chunk.css",
+    "static/js/540.ebf8c307.chunk.js": "/birthday_folder/static/js/540.ebf8c307.chunk.js",
+    "static/css/773.941a0a44.chunk.css": "/birthday_folder/static/css/773.941a0a44.chunk.css",
+    "static/js/773.313d28f1.chunk.js": "/birthday_folder/static/js/773.313d28f1.chunk.js",
+    "static/css/598.941a0a44.chunk.css": "/birthday_folder/static/css/598.941a0a44.chunk.css",
+    "static/js/598.a3c5e516.chunk.js": "/birthday_folder/static/js/598.a3c5e516.chunk.js",
+    "static/css/279.941a0a44.chunk.css": "/birthday_folder/static/css/279.941a0a44.chunk.css",
+    "static/js/279.06600660.chunk.js": "/birthday_folder/static/js/279.06600660.chunk.js",
+    "static/media/giampier-llanos-GDBjlWyfh6g-unsplash.jpg": "/birthday_folder/static/media/giampier-llanos-GDBjlWyfh6g-unsplash.90626357cbdffc0c0890.jpg",
+    "static/media/billy-huynh-W8KTS-mhFUE-unsplash.jpg": "/birthday_folder/static/media/billy-huynh-W8KTS-mhFUE-unsplash.558cd70a6f3f5843d7ac.jpg",
+    "static/media/alexander-grey-62vi3TG5EDg-unsplash.jpg": "/birthday_folder/static/media/alexander-grey-62vi3TG5EDg-unsplash.6eb3af5904870aedaa70.jpg",
+    "index.html": "/birthday_folder/index.html",
+    "main.9326c69e.css.map": "/birthday_folder/static/css/main.9326c69e.css.map",
+    "main.2fe529d8.js.map": "/birthday_folder/static/js/main.2fe529d8.js.map",
+    "540.941a0a44.chunk.css.map": "/birthday_folder/static/css/540.941a0a44.chunk.css.map",
+    "540.ebf8c307.chunk.js.map": "/birthday_folder/static/js/540.ebf8c307.chunk.js.map",
+    "773.941a0a44.chunk.css.map": "/birthday_folder/static/css/773.941a0a44.chunk.css.map",
+    "773.313d28f1.chunk.js.map": "/birthday_folder/static/js/773.313d28f1.chunk.js.map",
+    "598.941a0a44.chunk.css.map": "/birthday_folder/static/css/598.941a0a44.chunk.css.map",
+    "598.a3c5e516.chunk.js.map": "/birthday_folder/static/js/598.a3c5e516.chunk.js.map",
+    "279.941a0a44.chunk.css.map": "/birthday_folder/static/css/279.941a0a44.chunk.css.map",
+    "279.06600660.chunk.js.map": "/birthday_folder/static/js/279.06600660.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9326c69e.css",
+    "static/js/main.2fe529d8.js"
+  ]
+}
