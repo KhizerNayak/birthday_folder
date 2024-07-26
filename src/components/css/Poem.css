@@ -1,0 +1,19 @@
+/* src/components/css/Poem.css */
+
+
+.poem {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+  }
+  
+  .poem h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .poem p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  

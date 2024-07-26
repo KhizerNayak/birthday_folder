@@ -1,0 +1,40 @@
+
+/* src/components/css/PoemSection.css */
+
+/* src/components/css/PoemSection.css */
+
+.poem-section {
+    background: url('../../assest/alexander-grey-62vi3TG5EDg-unsplash.jpg') ;
+    background-size: cover;
+    min-height: 100vh; /* Ensure the section covers the full viewport height */
+    width: 100vw; /* Ensure the section covers the full viewport width */
+    color: white; /* Default text color for the section */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+    position: relative; /* Ensure absolute positioning of any children if needed */
+  }
+  
+  .poem-section h1 {
+    color: white; /* Color for the h1 tag */
+    font-size: 2.5rem; /* Adjust font size as needed */
+    margin-bottom: 20px; /* Space below the heading */
+  }
+  
+  .poem-content {
+    background: rgba(0, 0, 0, 0.5); /* Optional: Semi-transparent background for readability */
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+ .h2{
+  color: white;
+  font-size: medium;
+  font-style: italic;
+  
+ }
